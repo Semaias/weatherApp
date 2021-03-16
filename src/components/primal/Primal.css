@@ -1,0 +1,63 @@
+.content {
+    align-items: center;
+    display: flex;
+    margin-top: 45px;
+    min-width: 558px;
+  }
+  .date {
+    height: 215px;
+    letter-spacing: 0.00px;
+    min-height: 215px;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);;
+    width: 217px;
+  }
+  .details {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 29px;
+    min-height: 170px;
+    width: 273px;
+  }
+  .details-item {
+    letter-spacing: 2.10px;
+    margin-top: 11px;
+    min-height: 49px;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);;
+  }
+  .ensolarado {
+    letter-spacing: 2.10px;
+    min-height: 49px;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);;
+  }
+  .natalrn {
+    letter-spacing: 0.00px;
+    margin-left: 2.0px;
+    margin-top: 45px;
+    min-height: 49px;
+    min-width: 201px;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);;
+  }
+  .primal {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 431px;
+    padding: 1px 0;
+    width: 558px;
+  }
+  .rectangle-1 {
+    background-color: var(--white);
+    box-shadow: 0px 4px 4px rgba(0,0,0,0.25);;
+    height: 210px;
+    margin-left: 27px;
+    width: 11px;
+  }
+  .weather-app {
+    letter-spacing: 0.00px;
+    margin-left: 2.0px;
+    min-height: 75px;
+    min-width: 397px;
+    text-shadow: 0px 4px 4px rgba(0,0,0,0.25);;
+  }
+  

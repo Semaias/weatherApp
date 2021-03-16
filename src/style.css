@@ -1,0 +1,50 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,700,500,900");
+* {
+  box-sizing: border-box;
+}
+.raleway-black-white-64px {
+  color: var(--white);
+  font-family: "Raleway", Helvetica;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 900;
+}
+.raleway-bold-white-32px {
+  color: var(--white);
+  font-family: "Raleway", Helvetica;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+.raleway-bold-white-42px {
+  color: var(--white);
+  font-family: "Raleway", Helvetica;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+}
+.raleway-light-white-144px {
+  color: var(--white);
+  font-family: "Raleway", Helvetica;
+  font-size: 144px;
+  font-style: normal;
+  font-weight: 300;
+}
+.raleway-medium-white-40px {
+  color: var(--white);
+  font-family: "Raleway", Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+}
+.raleway-medium-white-42px {
+  color: var(--white);
+  font-family: "Raleway", Helvetica;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 500;
+}
+:root {
+  --white: rgba(255, 255, 255, 1);
+}
